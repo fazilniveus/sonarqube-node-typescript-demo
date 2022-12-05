@@ -17,6 +17,8 @@
     "precommit": "npm run lint-fix && npm run pretty",
     "prepush": "npm run lint ",
     "sonar": "ts-node sonar-scanner.ts"
+    "test": "mocha --recursive --exit"
+
   },
   "author": "Santosh Shinde",
   "license": "Apache-2.0",
