@@ -16,7 +16,7 @@
     "prepare": "husky install",
     "precommit": "npm run lint-fix && npm run pretty",
     "prepush": "npm run lint ",
-    "sonar": "ts-node sonar-scanner.ts"
+    "sonar": "ts-node sonar-scanner.ts",
     "test": "mocha --recursive --exit"
 
   },
