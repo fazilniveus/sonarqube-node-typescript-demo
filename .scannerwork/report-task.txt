@@ -1,6 +1,6 @@
-projectKey=sonarqube-node-tpescript-demo
-serverUrl=http://127.0.0.1
-serverVersion=8.9.1.44547
-dashboardUrl=http://127.0.0.1/dashboard?id=sonarqube-node-tpescript-demo
-ceTaskId=AXqmLdoG21WQGzQaFi7o
-ceTaskUrl=http://127.0.0.1/api/ce/task?id=AXqmLdoG21WQGzQaFi7o
+projectKey=network
+serverUrl=http://34.93.6.57:9000
+serverVersion=9.7.1.62043
+dashboardUrl=http://34.93.6.57:9000/dashboard?id=network
+ceTaskId=AYTgxInzStpRvIRQHAEb
+ceTaskUrl=http://34.93.6.57:9000/api/ce/task?id=AYTgxInzStpRvIRQHAEb
