@@ -27,6 +27,7 @@ pipeline {
 	      stage('SonarQube analysis') {
         	steps{
         		withSonarQubeEnv('sonarqube-9.7.1') { 
+				sh "npm install -g ts-node"
               			sh "npm run sonar"
     			}
         	}
